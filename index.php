@@ -14,7 +14,7 @@
 				<li>Marital Status: Single</li>
 				<li>Profession: Bartender @ Metropolitan Room</li>
 				<li>Income: $30k a year</li>
-				<li>Current Location: New York, New York</li>
+				<li>Current Location: New York City, New York</li>
 			</ul>
 		<p>Attitude</p>
 			<ul>
