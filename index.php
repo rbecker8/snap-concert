@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>John</title>
+		<title>John Persona</title>
 	</head>
 	<body>
 		<p><img src="./john.jpg" alt="image of john" style="width: 650px; height: 350px;"></p>
