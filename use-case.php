@@ -5,12 +5,12 @@
 		<title>User Story & Use Case</title>
 	</head>
 	<body>
-		<h1 class="main-title">User Story</h1>
-		<ul class="center-list">
+		<h1>User Story</h1>
+		<ul>
 			<li>John needs to review venues as he checks them</li>
 		</ul>
-		<h1 class="main-title">Use Case</h1>
-		<ul class="center-list">
+		<h1>Use Case</h1>
+		<ul>
 			<li>John navigates to music venue site</li>
 			<li>Site displays venues based off location first</li>
 			<li>John clicks on small venue</li>
