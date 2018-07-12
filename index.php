@@ -5,7 +5,7 @@
 		<title>John</title>
 	</head>
 	<body>
-		<p><img src="./john.jpg" alt="image of john" style="width: 600px; height: 350px;"></p>
+		<p><img src="./john.jpg" alt="image of john" style="width: 800px; height: 350px;"></p>
 		<h1>Persona</h1>
 			<ul>
 				<li>Name: John Johnson</li>
