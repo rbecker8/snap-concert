@@ -37,7 +37,7 @@
 			<ul>
 				<li>Websites that are straight forward</li>
 				<li>Websites that don't constantly redirect him to additional pages</li>
-				<li>Websites that organize music by genre as well categories like up and comers</li>
+				<li>Websites that organize music venues by city and size</li>
 			</ul>
 		<p>Technology</p>
 			<ul>
