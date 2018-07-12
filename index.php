@@ -51,5 +51,6 @@
 				<li>Processor: 3.4GHz quad-core Intel Core i5</li>
 				<li>Resolution: 5,120 x 2,880 pixels</li>
 			</ul>
+		<a href="use-case.php">Use Story and Use Case</a>
 	</body>
 </html>
