@@ -20,15 +20,16 @@
 			<ul>
 				<li>John lives and breathes music</li>
 				<li>Loves living in downtown NY where concerts happen almost daily</li>
-				<li>Enjoys sharing his passion for music online with other music lovers</li>
-				<li>Also likes downloading and discovering new music</li>
+				<li>Enjoys sharing his passion for musical venues with other music lovers</li>
+				<li>Has high standards for venues as he works at such an icon place</li>
 				<li>Has an excellent ear for music as he is a musician himself</li>
 			</ul>
 		<p>Likes</p>
 			<ul>
-				<li>Huge concert venues like Madison Square Garden</li>
+				<li>Huge concert venues like Madison Square Garden because of the acoustics</li>
+				<li>Can also appreciate small venues if done right</li>
 				<li>Meeting celebs and rockstars</li>
-				<li>Spending time reviewing music on his phone</li>
+				<li>Spending time discovering music on his phone</li>
 				<li>Jamming out with a few of his friends who also play and enjoy music</li>
 				<li>Playing guitar</li>
 			</ul>
