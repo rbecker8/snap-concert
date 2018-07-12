@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>User Story & Use Case</title>
+		<title>User Story and Use Case</title>
 	</head>
 	<body>
 		<h1>User Story</h1>
